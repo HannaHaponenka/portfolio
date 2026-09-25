@@ -1364,6 +1364,7 @@ export default function App() {
             loop
             muted
             playsInline
+            controls
             style={{ width: '100%', height: 'auto', display: 'block' }}
           />
           <div className="absolute bottom-0 left-0 right-0 p-8 pointer-events-none">
